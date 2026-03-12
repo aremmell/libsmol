@@ -1,0 +1,25 @@
+{
+  "name": "libsmol",
+  "version": "0.0.1",
+  "description": "Abstracts away some of the tediousness of embedded development.",
+  "keywords": "utility, wrapper, abstraction",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/aremmell/libsmol.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Ryan M. Lederman",
+      "email": "lederman@gmail.com",
+      "url": "https://rml.dev"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aremmell/libsmol/",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}

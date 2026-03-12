@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "libsmol",
+			"path": "libsmol"
+		}
+	],
+	"settings": {}
+}
